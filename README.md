@@ -1,3 +1,7 @@
+Forked from https://github.com/akofman/cordova-plugin-disable-bitcode in order to support https://github.com/Field-ID/mobile-web. Proposed in https://github.com/Field-ID/mobile-web/pull/514
+
+
+
 # cordova-plugin-disable-bitcode
 
 > [Cordova plugin](https://www.npmjs.com/package/cordova-plugin-disable-bitcode) to disable bitcode in iOS build settings.
