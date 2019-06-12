@@ -1,4 +1,4 @@
-Forked from https://github.com/akofman/cordova-plugin-disable-bitcode in order to support https://github.com/Field-ID/mobile-web. Proposed in https://github.com/Field-ID/mobile-web/pull/514
+Forked from https://github.com/akofman/cordova-plugin-disable-bitcode in order to support https://github.com/Field-ID/mobile-web. Proposed in https://github.com/Field-ID/mobile-web/pull/513
 
 
 
